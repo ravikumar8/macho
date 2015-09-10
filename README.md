@@ -3,7 +3,7 @@ Plates
 
 [![Author](http://img.shields.io/badge/author-@ravikumar8-blue.svg?style=flat-square)](https://twitter.com/ravikumar8)
 [![Source Code](https://img.shields.io/badge/source-macho-blue.svg?style=flat-square)](https://github.com/ravikumar8/macho)
-[![Latest Version](https://img.shields.io/github/release/thephpleague/plates.svg?style=flat-square)](https://github.com/thephpleague/plates/releases)
+[![Latest Version](https://img.shields.io/badge/github-release-blue.svg?style=flat-square)](https://github.com/ravikumar8/macho/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://travis-ci.org/ravikumar8/macho.svg?branch=master)](https://travis-ci.org/ravikumar8/macho)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/thephpleague/plates.svg?style=flat-square)](https://scrutinizer-ci.com/g/thephpleague/plates/code-structure)
