@@ -23,14 +23,14 @@ Plates is available via Composer:
 ```json
 {
     "require": {
-        "league/plates": "3.*"
+        "webloper/macho": "1.*"
     }
 }
 ```
 
 ## Documentation
 
-Full documentation can be found at [platesphp.com](http://platesphp.com/).
+Full documentation can be found at [webloper.com](http://webloper.com/).
 
 ## Testing
 
@@ -40,17 +40,17 @@ $ phpunit
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/thephpleague/plates/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/ravikumar8/macho/blob/master/CONTRIBUTING.md) for details.
 
 ## Security
 
-If you discover any security related issues, please email jonathan@reinink.ca instead of using the issue tracker.
+If you discover any security related issues, please email webloper@gmail.com instead of using the issue tracker.
 
 ## Credits
 
-- [Jonathan Reinink](https://github.com/reinink)
-- [All Contributors](https://github.com/thephpleague/plates/contributors)
+- [Philip Brown](https://github.com/philipbrown)
+- [All Contributors](https://github.com/ravikumar8/macho/blob/master/CONTRIBUTING.md)
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/thephpleague/plates/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/ravikumar8/macho/blob/master/LICENSE) for more information.
